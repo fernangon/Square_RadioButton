@@ -2,7 +2,8 @@ This is an example of a Radio Button with square design.
 
 Use it free in your web site.
 
-Remember I accept BAT Token tips using Brave Browser! :simple_smile: :thumbsup:
+Remember I accept BAT Token tips using Brave Browser! :simple_smile: 
+:thumbsup:
 
 
 
