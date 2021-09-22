@@ -8,6 +8,8 @@ Use it free in your web site.
 
 Remember I accept BAT Token tips using Brave Browser! :thumbsup: :smile:
 
+Thanks a lot!
+
 
 
 
