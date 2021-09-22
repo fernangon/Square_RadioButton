@@ -2,7 +2,7 @@ This is an example of a Radio Button with square design.
 
 Using only HTML & CSS!! 
 
-Any images used!
+No images used!
 
 Use it free in your web site.
 
